@@ -22,11 +22,6 @@ public class SumOdd {
             return -1;
         }
     }
-
-
-
-
-
     public static void main(String[] args){
         isOdd(7);
         isOdd(9);
